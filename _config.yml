@@ -12,11 +12,11 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : Gmania
   email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : gmania
+  twitter : leng.chunlin
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
