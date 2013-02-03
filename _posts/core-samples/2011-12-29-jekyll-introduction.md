@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Jekyll Introduction - Sample"
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
 ---

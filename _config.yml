@@ -12,10 +12,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Gmania
-brand: Gmania Ab
+brand: Gmania A
 tagline: Site Tagline
 author :
-  name : Chunlin Leng
+  name : Gmania
   email : leng.chunlin@gmail.com
   github : gmania
   twitter : leng.chunlin
