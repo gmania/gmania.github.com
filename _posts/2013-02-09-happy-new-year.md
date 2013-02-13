@@ -7,9 +7,9 @@ tags: [wishes]
 ---
 {% include JB/setup %}
 
-The Snake is in Chinese tradition representing _Rationality_, _Intelligence_, _Restraint_, and _Flexibility_. Wish every one of you good luck and successful accomplishment in Chinese Snake Year. 
+Snake is in Chinese tradition representing *Rationality*, *Intelligence*, *Restraint*, and *Flexibility*. Wish all of you good luck and every accomplishment in Chinese Snake Year. 
 
-蛇在中国的传统中代表了_理性_、_睿智_、_隐忍_与_灵活_。恭愿各位蛇年行大运，事业有成。
+蛇在中国的传统中代表了*理性*、*睿智*、*隐忍*与*灵活*。恭愿各位蛇年行大运，事业有成。
 
 Happy New Year! 新年快乐！
 
