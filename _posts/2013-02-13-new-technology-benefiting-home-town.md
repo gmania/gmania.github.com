@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "New Technology benefiting Home Town"
+title: "New Technology Benefiting Home Town"
 description: ""
 category: 
-tags: []
+tags: [Android, T619]
 ---
 {% include JB/setup %}
 
@@ -13,6 +13,6 @@ There are a bunch of useless applications (APPs) pre-installed by SP crowding ar
 
 Fortunately I'm home having my spring festival and I'm ready in knowledge of the always growing technology. I refreshed the Android system with a slim one and acquired root authority. Although it's not a mainstream Android phone I was able to find a simplified but optimized ROM shared by net friends. 
 
-It felt much more light and easy looking at the new system, and the default configurations are pleasing too. I installed several popular and frequently used APPs like QQ, WeChat, Music Player (supporting online search), WallPaper, Weather, and Talking Tom Bear. It didn't take long until Mother learned to use these APPs.
+It felt much more light and easy looking at the new system, and the default configurations are pleasing too. I installed several popular and frequently used APPs like QQ, WeChat, Music Player (supporting online search), WallPaper, Weather, and Talking Tom Bear. It didn't take long before Mother learned to use these APPs.
 
 Mother was happy and so was I. It's satisfying to see new technology permeating and benefiting our beloved back in home town.
