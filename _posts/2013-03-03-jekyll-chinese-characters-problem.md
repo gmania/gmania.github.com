@@ -11,8 +11,9 @@ tags: [Jekyll, Ruby, Tips]
 
 >Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
 
-我想这一定跟字符编码有关，果然定位到是中文文章照成的。于是在网上搜索解决办法，原来跟Ruby有关。需要修改`ruby/gems/1.9.1/jekyll-0.11.2/lib/jekyll/convertible.rb`
+我想这一定跟字符编码有关，于是在网上搜索解决办法，果然定位到是中文文章造成的。原来Ruby读取文章时的编码需要稍作修改，找到`ruby/gems/1.9.1/jekyll-0.11.2/lib/jekyll/convertible.rb`
 
 	Line 27
 	self.content = File.read(File.join(base, name), :encoding => "utf-8")
 
+大功告成。
